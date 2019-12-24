@@ -1,4 +1,4 @@
-# gympoint
+# Gympoint
 
 BACKEND:
 
