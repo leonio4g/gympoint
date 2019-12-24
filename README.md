@@ -2,19 +2,19 @@
 
 BACKEND:
 
-STARTS: 
-serve: yarn dev
-Queue: yarn queue
-Debug: yarn dev:debug
+STARTS: <br />
+serve: yarn dev<br />
+Queue: yarn queue<br />
+Debug: yarn dev:debug<br />
 
 FRONTEND:
 
-STARTS:
+STARTS:<br />
 serve: yarn start
 
 MOBILE:
 
-STARTS:
+STARTS:<br />
 
 Obs: Aplicação feita para android.
 
